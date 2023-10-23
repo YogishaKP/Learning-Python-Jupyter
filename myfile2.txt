@@ -1,4 +1,0 @@
-first line text
-hello
-welcome 
-fourth line
